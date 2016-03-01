@@ -1,0 +1,1 @@
+# 5 Descripción detallada del algoritmo rasteador #
